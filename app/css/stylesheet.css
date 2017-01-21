@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'lobster_1.4regular';
+    src: url('../fonts/Lobster1.4/lobster_1_4-webfont.woff') format('woff2'),
+         url('../fonts/Lobster1.4/lobster_1_4-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/***** Open Sans *****/
+
+@font-face {
+    font-family: 'open_sanssemibold';
+    src: url('../fonts/OpenSans/opensans-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/OpenSans/opensans-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sansextrabold';
+    src: url('../fonts/OpenSans/opensans-extrabold-webfont.woff2') format('woff2'),
+         url('../fonts/OpenSans/opensans-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/OpenSans/opensans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/OpenSans/opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
